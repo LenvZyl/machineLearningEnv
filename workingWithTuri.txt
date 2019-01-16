@@ -1,0 +1,16 @@
+Select a Data set
+
+Preparing the Data
+- Convert Data into Frame (SFrame)
+- Label images according to file in SFrame object
+- Save Sframe on the disk
+
+Creating the Model
+- Load data from Frame
+- Create a training and test data set
+- Create model from the training set
+- Evaluate the model with the test data set
+- Export the model
+
+Tips:
+- "source bin/activate" to start enviroment 
